@@ -12,9 +12,9 @@
 
 ### 2025
 
-| июнь | июль | август |
-|------|------|--------|
-|![обложка август](./thumbnail/journal_friend_2025-06.png)|![обложка август](./thumbnail/journal_friend_2025-07.png)|![обложка август](./thumbnail/journal_friend_2025-08.png)|
+| июнь | июль | август | сентябрь |
+|------|------|--------|----------|
+|![обложка август](./thumbnail/journal_friend_2025-06.png)|![обложка август](./thumbnail/journal_friend_2025-07.png)|![обложка август](./thumbnail/journal_friend_2025-08.png)||![обложка сентябрь](./thumbnail/journal_friend_2025-09.png)|
 
 
 
