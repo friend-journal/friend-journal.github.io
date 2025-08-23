@@ -12,9 +12,9 @@
 
 ### 2025
 
-| июнь | июль | август | сентябрь |
-|------|------|--------|----------|
-|![обложка август](./thumbnail/journal_friend_2025-06.png)|![обложка август](./thumbnail/journal_friend_2025-07.png)|![обложка август](./thumbnail/journal_friend_2025-08.png)||![обложка сентябрь](./thumbnail/journal_friend_2025-09.png)|
+| июнь, №1 | июль, №2 | август, №3 | август, №4 |
+|------|------|--------|--------|
+|![обложка август](./thumbnail/journal_friend_2025-06-1.png)|![обложка август](./thumbnail/journal_friend_2025-07-2.png)|![обложка август](./thumbnail/journal_friend_2025-08-3.png)|![обложка сентябрь](./thumbnail/journal_friend_2025-08-4.png)|
 
 
 
